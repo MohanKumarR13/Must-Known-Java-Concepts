@@ -1,0 +1,4 @@
+2023-03-11 20:55:20,675 INFO  [XmlLog4jConfig] This is Info 
+2023-03-11 20:55:20,677 WARN  [XmlLog4jConfig] This is Warning 
+2023-03-11 20:55:20,677 ERROR [XmlLog4jConfig] This is Error 
+2023-03-11 20:55:20,678 FATAL [XmlLog4jConfig] This is Fatal 
